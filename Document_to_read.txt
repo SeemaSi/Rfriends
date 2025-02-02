@@ -1,0 +1,4 @@
+Scaffolding in Ruby on Rails is a powerful feature that automates the creation of basic components in a web application, such as models, views, and controllers. It provides a starting point for creating CRUD (Create, Read, Update, Delete) functionality for resources in the application.
+
+$ rails g scaffold friends first_name:string last_name:string email:string phone:string twitter:string
+
